@@ -1,2 +1,2 @@
 # RPFrourierScrambler
-Helper class for generating Fourier's scramble arrays
+Helper class for generating Fourier's scramble arrays in Swift
